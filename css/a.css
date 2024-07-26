@@ -1,0 +1,15 @@
+
+#tanks{
+    background: transparent;
+    float: left;
+    transition: 0.5s;
+    position: fixed;
+    top: 30%;
+    left: 40%;
+    z-index: -1;
+}
+body{
+    background-image: url('../img/17.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
